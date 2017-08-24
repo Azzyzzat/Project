@@ -36,7 +36,7 @@
       </li>
      
 <li class="nav-item">
-        <a class="nav-link" href="http://yussufa.myweb.cs.uwindsor.ca/60334/assignments/project/html/analysis2.php">Industry Analysis</a>
+        <a class="nav-link" href="http://yussufa.myweb.cs.uwindsor.ca/60334/assignments/project/html/analysis2.php">Location Analysis</a>
       </li>
 
     </ul>
